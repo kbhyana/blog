@@ -12,7 +12,7 @@ Welcome to my blog. I share my thoughts, ideas and knowledge here. The world is 
 
 Time to time numerous administrations over the world have demonstrated that they can't be held reliable, numerous banks have broken the trust of individuals by looting their cash. 
 
-let's assume, you need to exchange cash to a man. This procedure will include an outsider, utilizing which the cash is being exchanged. Presently the inquiry is — Can you confide in the outsider? What are the odds that the third can do a misrepresentation with your cash? All things considered, the outsider is an imposing business model here. They can do the misrepresentation since they know individuals will even now utilize them since they are a restraining infrastructure. Individuals have no other decision. 
+Let's assume, you need to exchange cash to a man. This procedure will include an outsider, utilizing which the cash is being exchanged. Presently the inquiry is — Can you confide in the outsider? What are the odds that the third can do a misrepresentation with your cash? All things considered, the outsider is an imposing business model here. They can do the misrepresentation since they know individuals will even now utilize them since they are a restraining infrastructure. Individuals have no other decision. 
 
 In 2008, An individual known as "Satoshi Nakamoto" distributed a paper higlighting a framework called Bitcoin that could challenge the most capable imposing business models on the planet. It was the principal framework to demonstrate that two man can trade an incentive on the web without utilizing an outsider. Bitcoin at present has the market capital of about $93 Billions (as of thirteenth Oct. 2017) which is more noteworthy than that of Goldman Sachs. 
 
@@ -23,6 +23,9 @@ Blockchain is the foundation of Bitcoin. Every one of the exchanges of Bitcoins 
 Blockchain has a brilliant future. Its capacity of straightforward, secure and conveyed figuring make it the substitution for some current customary things. It can be a trade for outsider installment organizations, for example, Visa, MasterCard and even banks. It can be base of IoT. It can approve and secure nearly anything. From voter confirmation to government forms, wellbeing data, and verification of protected innovation, Blockchain can fill in as a safe procedure to approve nearly anything of significant worth, and to guard it. For sure, in light of the Blockchain structure, it's far more secure than standard cloud situations. 
 
 Long live blockchain.
+
+
+
 
 
 
@@ -49,6 +52,9 @@ Note: It’s essential to use any VPN with TOR while visiting any of these dark 
 
 
 
+
+
+
 ### Shuffle A Deck Of Cards To Make History
 
 ![Image](https://images.unsplash.com/photo-1523278496530-378e00b02de2?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=76309bb97f4654c7c567a32c4f4b4ae7&auto=format&fit=crop&w=1050&q=80)
@@ -66,5 +72,6 @@ Since we know there are 52! routes, in which we can arrange a deck of cards. 52!
 So here is the reality: Every time you rearrange a deck of cards, odds are that you have placed them in an order that has never been found ever of universe.
 
 So the next time it’s your turn to shuffle, take a moment to remember that you’re holding something that may have never before existed and may never exist again.
-```
+
+
 
