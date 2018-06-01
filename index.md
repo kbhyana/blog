@@ -1,11 +1,12 @@
 ## Hello
 
- Developer. Always excited to learn something new.
+Welcome to my blog. I share my thoughts, ideas and knowledge here. The world is really a big place and these is so much to learn, so much to experience. You can find posts related to science, mathematics, technology and many more topics.
+
  [About me](http://karanbhyana.me/)
 
-### Trust is a dangerous game  — Blockchain
+### Trust Is A Dangerous Game  — Blockchain
 
-![Image](https://images.unsplash.com/photo-1516245834210-c4c142787335?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=4c08d94fa3626ca948926d0211ccc7ac&auto=format&fit=crop&w=1049&q=80)\
+![Image](https://images.unsplash.com/photo-1516245834210-c4c142787335?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=4c08d94fa3626ca948926d0211ccc7ac&auto=format&fit=crop&w=1049&q=80)
 
 "Trust" infers a feeling of security. It is the establishment of each human association, culture, and group. Actually, our whole human progress relies upon trust. Trust implies presenting your vulnerabilities to somebody and trusting that they won't exploit that. 
 
@@ -23,7 +24,7 @@ Blockchain has a brilliant future. Its capacity of straightforward, secure and c
 
 Long live blockchain.
 
-BitcoinBlockch```markdown
+
 Syntax highlighted code block
 
 # Header 1
