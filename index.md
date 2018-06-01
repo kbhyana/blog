@@ -25,11 +25,25 @@ Blockchain has a brilliant future. Its capacity of straightforward, secure and c
 Long live blockchain.
 
 
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+
+### Shuffle A Deck Of Cards To Make History
+
+![Image](https://images.unsplash.com/photo-1523278496530-378e00b02de2?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=76309bb97f4654c7c567a32c4f4b4ae7&auto=format&fit=crop&w=1050&q=80)
+
+Have you at any point played cards? Regardless of whether you haven't, you should realize that there are 52 cards in a deck of cards. So here is my question: 
+
+In what number of ways would you be able to arrange a deck of cards? 
+
+52 may not appear like such a high number but rather with regards to plan or mix of 52 objects, it is basically a high number. How about we perceive how-If you have considered Permutations and Combinations, you can just say that there are 52! (factorial 52) possibilities, in which you can arrange 52 objects. For the individuals who don't understand what is 52! what's more, how could I get that? This is entirely straightforward: 
+
+We have 52 cards. So we pick 1 card out of 52 and fix it at position 1. We can pick any card out of 52 that implies there are 52 approaches to settle position 1. Presently 51 cards are cleared out. So we pick 1 card out of 51 and fix it at position 2. Also, again we can pick any card out of 51 that implies there are 51 approaches to settle position 2. Presently 50 cards are cleared out. So we pick 1 card out of 50 and fix it at position 3. But again we can pick any card out of 50 that implies there are 50 approaches to settle position 3. What's more, we can do this until the point when every one of the positions are settled. So finally we get 52*51*50… 3*2*1 which is called 52! (factorial 52). 
+
+Since we know there are 52! routes, in which we can arrange a deck of cards. 52! is a damn high number which is equivalent to 8.06e+67. 80,658,175,170,943,878,571,660,636,856,403,766,975,289,505,440,883,277,824,000,000,000,000 to be correct. It is a 68 digit number. 
+
+So here is the reality: Every time you rearrange a deck of cards, odds are that you have placed them in an order that has never been found ever of universe.
+
+So the next time it’s your turn to shuffle, take a moment to remember that you’re holding something that may have never before existed and may never exist again.
 
 - Bulleted
 - List
