@@ -26,6 +26,28 @@ Long live blockchain.
 
 
 
+### THE DARK NET
+
+![Image](https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=2059a86937844c84267d5126e5b36aa3&auto=format&fit=crop&w=1050&q=80)
+
+
+Most people like us confused about the term like Dark net or Deep web! It is a big part of the internet that can’t be found or indexed by search engines such as Google, Bing, Yahoo, and DuckDuckGo. For example, your bank account page is also the part of dark net sites. On the other side anything you can see in the search results, that’s call Surface web.
+
+Darknet sites contain weird URLs and also known as .onion sites (Hidden services sites)
+
+Dark marketplaces sale all kinds of legal and illicit goods anonymously for other currencies such as Bitcoins. When companies are hacked and their data is stolen, that stolen data often used for sale on the so-called Darknet.
+
+Currencies are used in Darknet
+
+Bitcoin, Litcoin, Peercoin, Primecoin, Namecoin, Ripple, Quark, Freicoin, Mastercoin, Nxt, Auroracoin, Dogecoin etc
+
+How to Browse Dark net Websites?
+
+There is a simple process. You have to use TOR network to browse the Dark net sites. If you are new to TOR browser, just check out this simple tutorial to access the .onion sites. However it is never recommended to open dark net.
+
+Note: It’s essential to use any VPN with TOR while visiting any of these dark net web markets.
+
+
 
 ### Shuffle A Deck Of Cards To Make History
 
@@ -44,31 +66,5 @@ Since we know there are 52! routes, in which we can arrange a deck of cards. 52!
 So here is the reality: Every time you rearrange a deck of cards, odds are that you have placed them in an order that has never been found ever of universe.
 
 So the next time it’s your turn to shuffle, take a moment to remember that you’re holding something that may have never before existed and may never exist again.
-
-
-
-
-
-### THE DARK NET
-
-![Image](https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=2059a86937844c84267d5126e5b36aa3&auto=format&fit=crop&w=1050&q=80)
-
-
-Most people like us confused about the term like Dark net or Deep web! It is a big part of the internet that can’t be found or indexed by search engines such as Google, Bing, Yahoo, and DuckDuckGo. For example, your bank account page is also the part of dark net sites. On the other side anything you can see in the search results, that’s call Surface web.
-
-Darknet sites contain weird URLs and also known as .onion sites (Hidden services sites)
-
-Dark marketplaces sale all kinds of legal and illicit goods anonymously for other currencies such as Bitcoins. When companies are hacked and their data is stolen, that stolen data often used for sale on the so-called Darknet.
-
-Currencies are used in Darknet
-
-Bitcoin, Litcoin, Peercoin, Primecoin, Namecoin, Ripple, Quark, Freicoin, Mastercoin, Nxt, Auroracoin, Dogecoin etc
-
-How to Browse Dark net Websites?
-
-There is a simple process. You have to use TOR network to browse the Dark net sites. If you are new to TOR browser, just check out this simple tutorial to access the .onion sites.However it is never recommended to open dark web.
-
-Note: It’s essential to use any VPN with TOR while visiting any of these dark net web markets.
-
 ```
 
